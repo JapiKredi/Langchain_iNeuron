@@ -1,3 +1,5 @@
 langchain
 ipykernel
 python-dotenv
+openai
+langchain_openai
