@@ -1,5 +1,6 @@
 langchain
 ipykernel
 python-dotenv
+OpenAI
 openai
-langchain_openai
+huggingface_hub
